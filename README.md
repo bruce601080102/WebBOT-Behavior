@@ -11,3 +11,11 @@
     <img src="images/Screen2.png" alt="Logo" width="1000" height="500">
   </a>
 </div>
+
+### Web bot moving with same rate and acceleration
+
+<div align="center">
+  <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
+    <img src="images/Screen3.png" alt="Logo" width="1000" height="500">
+  </a>
+</div>
